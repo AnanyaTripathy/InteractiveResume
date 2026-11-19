@@ -1,9 +1,9 @@
-const cacheName = "Ananya Tripathi-Ananya-Portfolio-1.0";
+const cacheName = "Ananya Tripathi-Ananya-Portfolio-1.1";
 const contentToCache = [
-    "Build/Builds (Second Delivery).loader.js",
-    "Build/Builds (Second Delivery).framework.js.br",
-    "Build/Builds (Second Delivery).data.br",
-    "Build/Builds (Second Delivery).wasm.br",
+    "Build/InteractiveResume.loader.js",
+    "Build/InteractiveResume.framework.js",
+    "Build/InteractiveResume.data",
+    "Build/InteractiveResume.wasm",
     "TemplateData/style.css"
 
 ];
